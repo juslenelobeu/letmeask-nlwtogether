@@ -7,7 +7,7 @@
 #### Status: Started
 
 - Aula 01
-- - [ x ] Criação do projeto com React
-- - [ x ] Criação do projeto no Firebase
-- - [ x ] Configuração da variável de ambient `.env`
-- - [ x ] Conexão com Firebase no React
+  - [x] Criação do projeto com React
+  - [x] Criação do projeto no Firebase
+  - [x] Configuração da variável de ambient `.env`
+  - [x] Conexão com Firebase no React
