@@ -4,7 +4,7 @@
   <img alt="License MIT" src="https://img.shields.io/github/license/juslenelobeu/letmeask-nlwtogether?style=flat-square">
 </div>
 
-<img align="center" src="https://github.com/juslenelobeu/letmeask-nlwtogether/pagina-inicial.png">
+<img align="center" src="https://raw.githubusercontent.com/juslenelobeu/letmeask-nlwtogether/master/pagina-inicial.png" width="100%">
 
 <h1 align="center">Letmeask</h1>
 <p align="center">Site de perguntas e respostas</p>
