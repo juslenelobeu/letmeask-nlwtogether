@@ -37,10 +37,26 @@
 <h3 id="atividades">✅&ensp;Atividades realizadas</h3>
 <h4>Aula 01</h4>
 <ul>
-  <li>[x] Start do projeto com React utilizando typescript - <code>create react-app --template typescript</code></li>
-  <li>[x] Criação do projeto no Firebase</li>
-  <li>[x] Configuração da variável de ambient <code>.env.local</code></li>
-  <li>[x] Conexão com Firebase no React</li>
+  <li>[x] Conceitos de React</li>
+  <ul>
+    <li>[x] Componente</li>
+    <li>[x] Propriedade</li>
+    <li>[x] Estado</li>
+  </ul>
+  <li>[x] Criando projeto com Firebase</li>
+  <li>[x] Conectando Firebase no React</li>
+  <li>[x] Variáveis de ambiente</li>
+</ul>
+<h4>Aula 02</h4>
+<ul>
+  <li>[x] Tela de autenticação</code></li>
+  <li>[x] Tela de criação de sala</li>
+  <li>[x] Roteamento e navegação</li>
+  <li>[x] Autenticação dom Firebase</li>
+  <li>[x] Contextos no React</li>
+  <li>[x] Contexto de autenticação</li>
+  <li>[x] Recuperar o estado de autenticação</li>
+  <li>[x] Criando <code>hook</code> de autenticação</li>
 </ul>
   
 <h2 id="como-rodar">🖥️&ensp;Como rodar</h2>
