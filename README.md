@@ -77,6 +77,13 @@
   <li>[x] Remoção de pergunta</li>
   <li>[x] Encerrar sala</li>
 </ul>
+<h4>Aula 05</h4>
+<ul>
+  <li>[x] HTML e CSS de destaque e responda</li>
+  <li>[x] Dar destaque na pergunta</li>
+  <li>[x] Marcar como respondida</li>
+  <li>[x] Hospedando o projeto no Firebase</li>
+</ul>
   
 <h2 id="como-rodar">🖥️&ensp;Como rodar</h2>
 
