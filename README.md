@@ -49,7 +49,7 @@
 </ul>
 <h4>Aula 02</h4>
 <ul>
-  <li>[x] Tela de autenticação</code></li>
+  <li>[x] Tela de autenticação</li>
   <li>[x] Tela de criação de sala</li>
   <li>[x] Roteamento e navegação</li>
   <li>[x] Autenticação dom Firebase</li>
@@ -57,6 +57,16 @@
   <li>[x] Contexto de autenticação</li>
   <li>[x] Recuperar o estado de autenticação</li>
   <li>[x] Criando <code>hook</code> de autenticação</li>
+</ul>
+<h4>Aula 03</h4>
+<ul>
+  <li>[x] Criação de sala</li>
+  <li>[x] Entrando na sala</li>
+  <li>[x] Estipulando autorização</li>
+  <li>[x] Iniciado a formatação da página da sala</li>
+  <li>[x] Consumindo perguntas do Firebase</li>
+  <li>[x] Criando nova pergunta</li>
+  <li>[x] "Ouvindo" novas perguntas</li>
 </ul>
   
 <h2 id="como-rodar">🖥️&ensp;Como rodar</h2>
