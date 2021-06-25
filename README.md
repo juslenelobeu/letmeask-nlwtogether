@@ -35,7 +35,7 @@
 </ul>
 
 <h3 id="atividades">✅&ensp;Atividades realizadas</h3>
-<h4>Aula 01</h4>
+<h4>📚&ensp;Aula 01</h4>
 <ul>
   <li>[x] Conceitos de React</li>
   <ul>
@@ -47,7 +47,7 @@
   <li>[x] Conectando Firebase no React</li>
   <li>[x] Variáveis de ambiente</li>
 </ul>
-<h4>Aula 02</h4>
+<h4>📚&ensp;Aula 02</h4>
 <ul>
   <li>[x] Tela de autenticação</li>
   <li>[x] Tela de criação de sala</li>
@@ -58,7 +58,7 @@
   <li>[x] Recuperar o estado de autenticação</li>
   <li>[x] Criando <code>hook</code> de autenticação</li>
 </ul>
-<h4>Aula 03</h4>
+<h4>📚&ensp;Aula 03</h4>
 <ul>
   <li>[x] Criação de sala</li>
   <li>[x] Entrando na sala</li>
@@ -68,7 +68,7 @@
   <li>[x] Criando nova pergunta</li>
   <li>[x] "Ouvindo" novas perguntas</li>
 </ul>
-<h4>Aula 04</h4>
+<h4>📚&ensp;Aula 04</h4>
 <ul>
   <li>[x] Finalizado a formatação da página da sala</li>
   <li>[x] Criando hook <code>useRoom</code></li>
@@ -77,7 +77,7 @@
   <li>[x] Remoção de pergunta</li>
   <li>[x] Encerrar sala</li>
 </ul>
-<h4>Aula 05</h4>
+<h4>📚&ensp;Aula 05</h4>
 <ul>
   <li>[x] HTML e CSS de destaque e responda</li>
   <li>[x] Dar destaque na pergunta</li>
