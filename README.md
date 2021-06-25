@@ -20,10 +20,6 @@
 </p>
 <hr>
 
-<h4 align="center"> 
-  🚧&ensp;&ensp;Projeto em construção...&ensp;&ensp;🚧
-</h4>
-
 <h2 id="sobre">🔖&ensp;Sobre Projeto</h2>
 <p>A finalizade do projeto é centralizar todas as perguntas enviadas pelos telespectadores da plataforma de stream, onde as perguntas mais votadas serão selecionadas e respondidas pelo autor da live.</p>
 
