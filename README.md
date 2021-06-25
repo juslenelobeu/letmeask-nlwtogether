@@ -68,6 +68,15 @@
   <li>[x] Criando nova pergunta</li>
   <li>[x] "Ouvindo" novas perguntas</li>
 </ul>
+<h4>Aula 04</h4>
+<ul>
+  <li>[x] Finalizado a formatação da página da sala</li>
+  <li>[x] Criando hook <code>useRoom</code></li>
+  <li>[x] Página de sala (admin)</li>
+  <li>[x] Funcionalidade de like</li>
+  <li>[x] Remoção de pergunta</li>
+  <li>[x] Encerrar sala</li>
+</ul>
   
 <h2 id="como-rodar">🖥️&ensp;Como rodar</h2>
 
