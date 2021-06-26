@@ -65,8 +65,9 @@ export function AuthContextProvider(props: AuthContextProviderProps) {
 
   async function signOutUser() {
     await auth.signOut()
-    console.log('logout')
+    window.location.reload()
   }
+
   return (
     <AuthContext.Provider value={{ user, signInWithGoogle, signOutUser }}>
       {props.children}

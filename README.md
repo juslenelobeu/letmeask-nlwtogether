@@ -16,6 +16,7 @@
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#atividades">Atividades</a> • 
  <a href="#como-rodar">Como rodar</a> • 
+ <a href="#melhorias">Melhorias</a> • 
  <a href="#autora">Autora</a>
 </p>
 <hr>
@@ -23,7 +24,7 @@
 <h2>Link do projeto no Firebase: <a href="https://letmeask-juslenelobeu.web.app/" target="_blank"><small>Demo</small></a></h2>
 
 <h2 id="sobre">🔖&ensp;Sobre Projeto</h2>
-<p>A finalizade do projeto é centralizar todas as perguntas enviadas pelos telespectadores da plataforma de stream, onde as perguntas mais votadas serão selecionadas e respondidas pelo autor da live.</p>
+<p>A finalidade do projeto é centralizar todas as perguntas enviadas pelos telespectadores da plataforma de stream, onde as perguntas mais votadas serão selecionadas e respondidas pelo autor da live.</p>
 
 <h2 id="tecnologias">🚀&ensp;Tecnologias</h2>
 <ul>
@@ -109,10 +110,16 @@ $ <http://localhost:3000>
 <h2 id="melhorias">Melhorias aplicadas e a aplicar</h2>
 <ul>
   <li>[x] Responsividade</li>
-  <li>[x] Ordem de listagem por nnúmero de likes na pergunta</li>
+  <li>[x] Listagem das perguntas por ordem das mais curtidas</li>
+  <li>[X] Botão logout</li>
+  <li>[X] Componentes e páginas separadas por pastas com seus estilos</li>
+  <li>[X] Ativado o link de login na página da sala quando não estiver logado</li>
+  <li>[X] No item que descreve a quantidade de perguntas, modifiquei para exibir a palavra no plural se tiver acima de 1 pergunta</li>
+  <li>[X] Quando o admin encerra a sala, será redirecionado para a home</li>
   <li>[] Dark mode</li>
-  <li>[] Botão logout</li>
   <li>[] Mensagens de alertas</li>
+  <li>[] Acesso a página admin somente quem a criou</li>
+  <li>[] Exibir avatar de quem curtiu a pergunta</li>
 </ul>
 
 <h2 id="autora">👩🏻‍💻&ensp;Autora</h2>

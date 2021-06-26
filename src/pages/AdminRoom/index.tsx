@@ -1,20 +1,20 @@
 // import { useState, FormEvent } from 'react'
 import { useHistory, useParams } from 'react-router-dom'
 
-import logoImg from '../assets/images/logo.svg'
-import deleteImg from '../assets/images/delete.svg'
-import checkImg from '../assets/images/check.svg'
-import answerImg from '../assets/images/answer.svg'
+import logoImg from '../../assets/images/logo.svg'
+import deleteImg from '../../assets/images/delete.svg'
+import checkImg from '../../assets/images/check.svg'
+import answerImg from '../../assets/images/answer.svg'
 
-import { Button } from '../components/Button'
-import { Question } from '../components/Question/index'
-import { RoomCode } from '../components/RoomCode'
+import { Button } from '../../components/Button/index'
+import { Question } from '../../components/Question/index'
+import { RoomCode } from '../../components/RoomCode'
 
 // import { useAuth } from '../hooks/useAuth'
-import { useRoom } from '../hooks/useRoom'
+import { useRoom } from '../../hooks/useRoom'
 
-import '../styles/room.scss'
-import { database } from '../services/firebase'
+import './styles.scss'
+import { database } from '../../services/firebase'
 
 type RoomParams = {
   id: string
@@ -66,7 +66,7 @@ export function AdminRoom() {
       <main>
         <div className="room-title">
           <h1>Sala {title}</h1>
-          {questions.length > 0 && <span>{questions.length} pergunta(s)</span>}
+          {questions.length > 0 && <span>{questions.length} {questions.length === 1 ? 'pergunta' : 'perguntas'}</span>}
         </div>
 
         <div className="question-list">
