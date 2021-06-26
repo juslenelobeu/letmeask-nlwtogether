@@ -104,6 +104,15 @@ $ yarn start
 $ <http://localhost:3000>
 ```
 
+<h2 id="melhorias">Melhorias aplicadas e a aplicar</h2>
+<ul>
+  <li>[x] Responsividade</li>
+  <li>[x] Ordem de listagem por nnúmero de likes na pergunta</li>
+  <li>[] Dark mode</li>
+  <li>[] Botão logout</li>
+  <li>[] Mensagens de alertas</li>
+</ul>
+
 <h2 id="autora">👩🏻‍💻&ensp;Autora</h2>
 <a href="https://juslenelobeudesigner.com.br/">
   <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/28795411?v=4" width="100px" alt=""/>
