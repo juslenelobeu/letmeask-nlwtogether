@@ -20,6 +20,8 @@
 </p>
 <hr>
 
+<h2>Link do projeto no Firebase: <a href="https://letmeask-juslenelobeu.web.app/" target="_blank"><small>Demo</small></a></h2>
+
 <h2 id="sobre">🔖&ensp;Sobre Projeto</h2>
 <p>A finalizade do projeto é centralizar todas as perguntas enviadas pelos telespectadores da plataforma de stream, onde as perguntas mais votadas serão selecionadas e respondidas pelo autor da live.</p>
 
